@@ -1,4 +1,4 @@
-import { CarCard, CustomFilter, Hero, ShorMore, ShowMore } from "@/components";
+import { CarCard, CustomFilter, Hero, ShowMore } from "@/components";
 import SearhBar from "@/components/SearhBar";
 import { fetchCars } from "@/utils";
 import Image from "next/image";
